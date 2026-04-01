@@ -4,7 +4,7 @@
 Este aplicativo calcula o valor de um financiamento com base nos dados informados pelo usuário!
 
 ## Protótipo no Figma
-[Clique aqui para acessar](https://www.figma.com/proto/MSsrvrmsvitBXLsttEQss9/Financiamento?node-id=0-1&t=Y2Gmsiq9jUTiWI6S-1)
+[Clique aqui para acessar](https://www.figma.com/design/MSsrvrmsvitBXLsttEQss9/Financiamento?node-id=0-1&m=dev&t=Y2Gmsiq9jUTiWI6S-1)
 
 ## Prints do funcionamento
 
